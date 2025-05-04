@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_reveal_slides import slides
+from reveal_slides import slides
 
 
 def presentation_page():
